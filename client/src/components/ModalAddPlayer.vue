@@ -14,6 +14,7 @@
         <div>
           <div>
             <input name="rsex" type="radio" v-model="sex" value="m">Männlich
+            <span class="div">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <input name="rsex" type="radio" v-model="sex" value="f">Weiblich
           </div>
         </div>

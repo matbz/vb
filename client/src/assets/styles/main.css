@@ -16,6 +16,11 @@ html,body {
   margin: 0;
 }
 
+.trenn {
+  width: 100px;
+  margin: 5em 0;
+}
+
 html,body,button,input,select,textarea, .pure-g, .pure-g [class*=pure-u] {
   font-family: 'Lato',Arial,'Helvetica Neue',Helvetica,sans-serif !important;
 }
